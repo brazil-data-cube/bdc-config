@@ -10,14 +10,10 @@ Changes
 =======
 
 
-Version 0.1.0
--------------
+Version 0.1.0 (2021-04-12)
+--------------------------
 
 - Read and Write configuration files for Brazil Data Cube
-
-
-Released 2021
-
 
 - Source code versioning based on `Semantic Versioning 2.0.0 <https://semver.org/>`_.
 
